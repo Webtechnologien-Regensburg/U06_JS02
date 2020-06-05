@@ -39,7 +39,7 @@ Erstellen Sie in dieser Aufgabe eine kleine Bildergalerie mit 4 Bildern, die sic
 -  Für Screens über 576 Pixel bis 768 Pixel sollen jeweils zwei Bilder nebeneinander dargestellt werden.
 - Für Screens ab 768 Pixel sollen alle vier Bilder nebeneinander dargestellt werden.
 
-Verwenden Sie das Framework [\textcolor{blue}{Bootstrap 4}](https://getbootstrap.com/docs/4.5/getting-started/introduction/), um die Aufgabe zu lösen. Bootstrap ist eine open-source Framework, das Sie dabei unterstützt responsive Webseiten zu gestalten. Binden Sie die   [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.5/getting-started/introduction/) zur Verfügung gestellte CSS-Datei in Ihr HTML Dokument ein, um Bootstrap zu nutzen. Sie können den Inhalt kopieren und in eine CSS-Datei einfügen. Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie responsive Elemente in Ihr HTML Dokument hinzufügen können. Mehr Informationen zum Grid System finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.0/layout/grid/) und [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp).
+Verwenden Sie das Framework [\textcolor{blue}{Bootstrap 4}](https://getbootstrap.com/docs/4.5/getting-started/introduction/), um die Aufgabe zu lösen. Bootstrap ist eine open-source Framework, das Sie dabei unterstützt responsive Webseiten zu gestalten. Binden Sie die   [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.5/getting-started/introduction/) zur Verfügung gestellte CSS-Datei in Ihr HTML Dokument ein, um Bootstrap zu nutzen. Sie können den Inhalt kopieren und in eine CSS-Datei einfügen. Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie responsive Elemente in Ihr HTML Dokument hinzufügen können. Mehr Informationen zum Grid System finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.0/layout/grid/) und [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp). Verwenden Sie die Entwicklertools Ihres Browsers, um in die responsive Darstellung zu wechseln und zu überprüfen, ob Ihre Seite sich an die Bildschirmgröße anpasst.
 
 
 
@@ -53,7 +53,7 @@ Zusätzlich dazu, sollen Ihnen die nachfolgenden Quellen dabei helfen, die Seite
 
 
 
-
+[\textcolor{blue}{Hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U06/Gallery.html) finden Sie eine HTML-Seite, an der Sie sich orientieren können.
 
 
 
