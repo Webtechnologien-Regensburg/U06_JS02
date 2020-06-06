@@ -40,7 +40,7 @@ Erstellen Sie in dieser Aufgabe eine kleine Bildergalerie mit 4 Bildern, die sic
 -  Für Screens bis 992 Pixel sollen jeweils zwei Bilder nebeneinander dargestellt werden.
 -  Für Screens ab 992 Pixel  sollen alle vier Bilder nebeneinander dargestellt werden.
 
-Verwenden Sie das Framework [\textcolor{blue}{Bootstrap 4}](https://getbootstrap.com/docs/4.5/getting-started/introduction/), um die Aufgabe zu lösen. Bootstrap ist eine open-source Framework, das Sie dabei unterstützt responsive Webseiten zu gestalten. Binden Sie die   [\textcolor{blue}{hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U06/bootstrap.min.css) zur Verfügung gestellte CSS-Datei in Ihr HTML Dokument ein, um die responsiven Elemente von Bootstrap zu nutzen. Sie können den Inhalt kopieren und in eine CSS-Datei einfügen. Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie  Ihr HTML Dokument strukturieren können. Mehr Informationen zum Grid System finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.0/layout/grid/) und [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp). Verwenden Sie die Entwicklertools Ihres Browsers, um in die responsive Darstellung zu wechseln und zu überprüfen, ob sich Ihre Seite an die Bildschirmgröße anpasst.
+Verwenden Sie das Framework [\textcolor{blue}{Bootstrap 4}](https://getbootstrap.com/docs/4.5/getting-started/introduction/), um die Aufgabe zu lösen. Bootstrap ist eine open-source Framework, das Sie dabei unterstützt responsive Webseiten zu gestalten. Binden Sie die   [\textcolor{blue}{hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U06/bootstrap.min.css) zur Verfügung gestellte CSS-Datei in Ihr HTML Dokument ein, um die responsiven Elemente von Bootstrap zu nutzen. Sie können den Inhalt kopieren und in eine CSS-Datei einfügen. Sie können darüberhinaus eine zusätzliche CSS-Datei definieren, die sie neben der Bootstrap-CSS in ihr Dokument einbinden können. Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie  Ihr HTML Dokument strukturieren können. Mehr Informationen zum Grid System finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.0/layout/grid/) und [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp). Verwenden Sie die Entwicklertools Ihres Browsers, um in die responsive Darstellung zu wechseln und zu überprüfen, ob sich Ihre Seite an die Bildschirmgröße anpasst.
 
 
 
@@ -66,7 +66,7 @@ Laden Sie Ihre Antworten bis spätestens 22.06.2020 (23:59 Uhr) als zip-komprimi
 
 - Aufgabe 1: Ihr Number Guessing Game (HTML, JS, CSS)
 
-- Aufgabe 2: Ihre Dateien (HTML, JS, CSS) der responsiven Bildergallerie
+- Aufgabe 2: Ihre responsive Bildergallerie (HTML, JS, CSS)
 
 Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
