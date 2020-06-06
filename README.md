@@ -33,17 +33,18 @@ Absolvieren Sie das Tutorial "A First Splash" der _Mozilla Developer Guides_ unt
 
 ## Aufgabe 2: Responsive Bildergallerie
 
-Erstellen Sie in dieser Aufgabe eine kleine Bildergalerie mit 4 Bildern, die sich an die Bildschirmgröße anpasst.  Ihre Seite soll aus einem einfachen Header (über die gesamte Breite) mit einer Überschrift und einer Navigationsleiste mit drei Optionen (die Links können sie "leer" lassen) bestehen. Zusätzlich dazu, soll Ihr HTML-Dokument über einen Hauptteil verfügen, der 4 verschiedene Bilder beinhaltet und diese auf folgende Weise darstellt:
+Erstellen Sie in dieser Aufgabe eine kleine Bildergalerie mit 4 Bildern, die sich an die Bildschirmgröße anpasst.  Ihre Seite soll aus einem einfachen Header (über die gesamte Breite) mit einer Überschrift und einer Navigationsleiste mit drei Optionen (die Links können sie "leer" lassen) bestehen. Zusätzlich dazu soll Ihr HTML-Dokument über einen Hauptteil verfügen, der 4 verschiedene Bilder beinhaltet und diese auf folgende Weise darstellt:
 
 - Für Screens mit einer Breite bis zu 576 Pixel sollen die Inhalte des Headers sowie die einzelnen Bilder untereinander dargestellt werden und die gesamte Breite des Screens füllen.
--  Für Screens über 576 Pixel bis 768 Pixel sollen jeweils zwei Bilder nebeneinander dargestellt werden.
-- Für Screens ab 768 Pixel sollen alle vier Bilder nebeneinander dargestellt werden.
+-  Für Screens über 576 Pixel bis 768 Pixel sollen Optionen der Navigationsleiste nebeneinander dargestellt werden.
+-  Für Screens über 768 Pixel sollen jeweils zwei Bilder nebeneinander dargestellt werden.
+-  Für Screens ab 992 Pixel  sollen alle vier Bilder nebeneinander dargestellt werden.
 
-Verwenden Sie das Framework [\textcolor{blue}{Bootstrap 4}](https://getbootstrap.com/docs/4.5/getting-started/introduction/), um die Aufgabe zu lösen. Bootstrap ist eine open-source Framework, das Sie dabei unterstützt responsive Webseiten zu gestalten. Binden Sie die   [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.5/getting-started/introduction/) zur Verfügung gestellte CSS-Datei in Ihr HTML Dokument ein, um Bootstrap zu nutzen. Sie können den Inhalt kopieren und in eine CSS-Datei einfügen. Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie responsive Elemente in Ihr HTML Dokument hinzufügen können. Mehr Informationen zum Grid System finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.0/layout/grid/) und [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp). Verwenden Sie die Entwicklertools Ihres Browsers, um in die responsive Darstellung zu wechseln und zu überprüfen, ob Ihre Seite sich an die Bildschirmgröße anpasst.
+Verwenden Sie das Framework [\textcolor{blue}{Bootstrap 4}](https://getbootstrap.com/docs/4.5/getting-started/introduction/), um die Aufgabe zu lösen. Bootstrap ist eine open-source Framework, das Sie dabei unterstützt responsive Webseiten zu gestalten. Binden Sie die   [\textcolor{blue}{hier}](https://homepages.uni-regensburg.de/~kom13409/WTSS2020/U06/bootstrap.min.css) zur Verfügung gestellte CSS-Datei in Ihr HTML Dokument ein, um die responsiven Elemente von Bootstrap zu nutzen. Sie können den Inhalt kopieren und in eine CSS-Datei einfügen. Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie  Ihr HTML Dokument strukturieren können. Mehr Informationen zum Grid System finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.0/layout/grid/) und [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_grid_basic.asp). Verwenden Sie die Entwicklertools Ihres Browsers, um in die responsive Darstellung zu wechseln und zu überprüfen, ob sich Ihre Seite an die Bildschirmgröße anpasst.
 
 
 
-Zusätzlich dazu, sollen Ihnen die nachfolgenden Quellen dabei helfen, die Seite  mit Hilfe von Bootstrap zu strukturieren:
+Zusätzlich sollen Ihnen die nachfolgenden Quellen dabei helfen, die Seite  mit Hilfe von Bootstrap zu gestalten:
 
 - Allgemeine Informationen zu Bootstrap sind [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/default.asp) zu finden.
 
@@ -63,11 +64,13 @@ Zusätzlich dazu, sollen Ihnen die nachfolgenden Quellen dabei helfen, die Seite
 
 Laden Sie Ihre Antworten bis spätestens 22.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Für diese Übungsaufgabe haben Sie zwei Wochen Zeit. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
-- Aufgabe 2: Ihre HTML- und JS-Datei
+- Aufgabe 1: Ihr Number Guessing Game (HTML, JS, CSS)
+
+- Aufgabe 2: Ihre Dateien (HTML, JS, CSS) der responsiven Bildergallerie
 
 Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS20_5_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS20_6_Max_Mustermann.zip**
 
