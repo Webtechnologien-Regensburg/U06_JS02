@@ -49,7 +49,7 @@ Halten Sie sich an das _Grid-System_ von Bootstrap, mit dem Sie  Ihr HTML Dokume
 Zusätzlich sollen Ihnen die nachfolgenden Quellen dabei helfen, die Seite  mit Hilfe von Bootstrap zu gestalten:
 
 - Allgemeine Informationen zu Bootstrap sind [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/default.asp) zu finden.
-
+- Eine Überblick über die Bildschirmgrößen und den jeweiligen Breakpoints finden Sie [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.5/layout/overview/)
 - Mehr Informationen zu Navbars in Bootstrap erhalten Sie [\textcolor{blue}{hier}](https://www.w3schools.com/bootstrap4/bootstrap_navbar.asp).
 - Mehr zu responsiven Bildern in Bootstrap können Sie  [\textcolor{blue}{hier}](https://getbootstrap.com/docs/4.5/content/images/) nachlesen. 
 - Sie können gerne Bilder aus dem [\textcolor{blue}{WikiArtEmotionSet}](https://docs.google.com/spreadsheets/d/19QDyny7b0CHnpotKPzwxMIK9_59uH4BZWEmqLupVPhQ/edit?usp=sharing) verwenden, um die Bildergalerie zu gestalten.
