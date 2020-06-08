@@ -64,7 +64,7 @@ Zusätzlich sollen Ihnen die nachfolgenden Quellen dabei helfen, die Seite  mit 
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 22.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Für diese Übungsaufgabe haben Sie zwei Wochen Zeit. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 22.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch.  Für dieses Übungsblatt haben Sie zwei Wochen Zeit. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 1: Ihr Number Guessing Game (HTML, JS, CSS)
 
