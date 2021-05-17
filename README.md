@@ -40,14 +40,13 @@ Bedenken Sie, dass die Monate eine unterschiedliche Länge haben können. Speich
 Zusätzlich sollen Sie den ausgewählten Monat sowie alle Sonntage des Monats einfärben. Auch die Information, an welcher Stelle der erste Sonntag eines Monats auftritt, können Sie in einem Array abspeichern und an gegebener Stelle wieder auslesen. Alle weiteren Sonntage des Monats können dann errechnet werden.
 
 Sie müssen hierfür folgende Funktionalitäten umsetzen:
-<ol>
 
-<li> (1) Eine Funktion zur Erstellung der Visualisierung eines Monatstages (z.B. Zahl zw. 01 u. 31 sowie Abkürzung für den Wochentag).</li>
-<li> (2) Eine Schleife zur Erstellung aller Monatstage für den ausgewählten Monat.</li>
-<li> (3) Eine Funktion, welche das Klick-Event auf einen Monat abfängt und die Erstellung der Monatstage anstößt.</li>
-<li> (4) Eine CSS-Klasse, welche den ausgewählten Monat farblich hervorhebt. </li>
-<li> (5) Eine CSS-Klasse, welche jeden Sonntag des Monats farblich hervorhebt.</li>
-</ol>
+1. Eine Funktion zur Erstellung der Visualisierung eines Monatstages (z.B. Zahl zw. 01 u. 31 sowie Abkürzung für den Wochentag).</li>
+2. Eine Schleife zur Erstellung aller Monatstage für den ausgewählten Monat.</li>
+3. Eine Funktion, welche das Klick-Event auf einen Monat abfängt und die Erstellung der Monatstage anstößt.</li>
+4. Eine CSS-Klasse, welche den ausgewählten Monat farblich hervorhebt. </li>
+5. Eine CSS-Klasse, welche jeden Sonntag des Monats farblich hervorhebt.</li>
+
 
 
 Vergessen Sie nicht ihre JavaScript-Datei in die HTML-Datei einzubinden. Das Setzen der CSS-Klasse für eine individuelle Einfärbung der Sonntage kann entweder in einer eigenen Schleife oder während der Erstellung von (2) erfolgen. 
