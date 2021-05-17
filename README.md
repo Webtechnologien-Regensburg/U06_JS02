@@ -33,7 +33,7 @@ Absolvieren Sie das Tutorial "A First Splash" der _Mozilla Developer Guides_ unt
 
 ## Aufgabe 2: Kalender
 
-Erstellen Sie in dieser Aufgabe einen Jahreskalender, in welchem  alle Tage/Monate des Jahres 2021 wahrheitsgetreu visualisiert werden. Die Ausgangslage stellt [\textcolor{blue}{folgendes Projekt}](https://elearning.uni-regensburg.de/mod/resource/view.php?id=1801878) dar. Hierbei werden bereits die zwölf Monate des Jahres zur Auswahl angezeigt. Durch das Klicken auf einen Monat sollen nun dynamisch und mit Hilfe von JavaScript die jeweiligen Tage des ausgewählten Monats erstellt und unterhalb der Auswahl angezeigt werden. 
+Erstellen Sie in dieser Aufgabe einen Jahreskalender, in welchem  alle Tage/Monate des Jahres 2021 wahrheitsgetreu visualisiert werden. Die Ausgangslage stellt [\textcolor{blue}{folgendes Projekt}](https://elearning.uni-regensburg.de/mod/resource/view.php?id=1801878) dar. Hierbei werden bereits die zwölf Monate des Jahres zur Auswahl angezeigt. Durch Anklicken einer Monatsplakette sollen nun dynamisch und mit Hilfe von JavaScript die jeweiligen Tage des ausgewählten Monats erstellt und unterhalb der Auswahl angezeigt werden. 
 
 Bedenken Sie, dass die Monate eine unterschiedliche Länge haben können. Speichern Sie daher die spezifische Länge jedes Monats in einem Array ab und lesen diese Information an gegebener Stelle wieder aus. 
 
@@ -42,11 +42,11 @@ Zusätzlich sollen Sie den ausgewählten Monat sowie alle Sonntage des Monats ei
 Sie müssen hierfür folgende Funktionalitäten umsetzen:
 <ol>
 
-<li> Eine Funktion zur Erstellung einer "Plakette" für die Visualisierung eines Monatstages (z.B. Zahl zw. 01 u. 31 sowie Abkürzung für den Wochentag).</li>
-<li> Eine Schleife zur Erstellung aller Monatstage für den ausgewählten Monat.</li>
-<li> Eine Funktion, welche das Klick-Event auf einen Monat abfängt und die Erstellung der Monatstage anstößt.</li>
-<li> Eine CSS-Klasse, welche den ausgewählten Monat farblich hervorhebt. </li>
-<li> Eine CSS-Klasse, welche jeden Sonntag des Monats farblich hervorhebt.</li>
+<li> (1) Eine Funktion zur Erstellung der Visualisierung eines Monatstages (z.B. Zahl zw. 01 u. 31 sowie Abkürzung für den Wochentag).</li>
+<li> (2) Eine Schleife zur Erstellung aller Monatstage für den ausgewählten Monat.</li>
+<li> (3) Eine Funktion, welche das Klick-Event auf einen Monat abfängt und die Erstellung der Monatstage anstößt.</li>
+<li> (4) Eine CSS-Klasse, welche den ausgewählten Monat farblich hervorhebt. </li>
+<li> (5) Eine CSS-Klasse, welche jeden Sonntag des Monats farblich hervorhebt.</li>
 </ol>
 
 
