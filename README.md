@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
@@ -29,7 +29,7 @@ header-includes: |
 
 ## Aufgabe 1: JS Mozilla Developer Guides
 
-Absolvieren Sie das Tutorial "A First Splash" der _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash. Implementieren Sie das  _Number Guessing Game_ mit Hilfe des Tutorials.  Wenn Sie das Spiel fertiggestellt haben, beherrschen Sie die grundlegenden Kenntnisse zu Funktionen, Schleifen, Operatoren und Bedingungen in JS! :)
+Absolvieren Sie das Tutorial "A First Splash" der _Mozilla Developer Guides_ unter https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash. Implementieren Sie das  _Number Guessing Game_ mit Hilfe des Tutorials.  Wenn Sie das Spiel fertiggestellt haben, beherrschen Sie die grundlegenden Kenntnisse zu Funktionen, Schleifen, Operatoren und Bedingungen in JS!
 
 ## Aufgabe 2: Kalender
 
@@ -51,18 +51,17 @@ Sie müssen hierfür folgende Funktionalitäten umsetzen:
 
 Vergessen Sie nicht ihre JavaScript-Datei in die HTML-Datei einzubinden. Das Setzen der CSS-Klasse für eine individuelle Einfärbung der Sonntage kann entweder in einer eigenen Schleife oder während der Erstellung von (2) erfolgen. 
 
-
 ------
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 27.05.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 06.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe 2: Ihr Kalender-Projekt (HTML, JS, CSS)
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS21_6_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_6_Max_Mustermann.zip**
 
