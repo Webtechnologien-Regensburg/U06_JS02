@@ -33,7 +33,7 @@ Absolvieren Sie das Tutorial "A First Splash" der _Mozilla Developer Guides_ unt
 
 ## Aufgabe 2: Kalender
 
-Erstellen Sie in dieser Aufgabe einen Jahreskalender, in welchem  alle Tage/Monate des Jahres 2021 wahrheitsgetreu visualisiert werden. Die Ausgangslage stellt [\textcolor{blue}{folgendes Projekt}](https://elearning.uni-regensburg.de/mod/resource/view.php?id=1801878) dar. Hierbei werden bereits die zwölf Monate des Jahres zur Auswahl angezeigt. Durch Anklicken einer Monatsplakette sollen nun dynamisch und mit Hilfe von JavaScript die jeweiligen Tage des ausgewählten Monats erstellt und unterhalb der Auswahl angezeigt werden. 
+Erstellen Sie in dieser Aufgabe einen Jahreskalender, in welchem  alle Tage/Monate des Jahres 2022 wahrheitsgetreu visualisiert werden. Die Ausgangslage stellt [\textcolor{blue}{folgendes Projekt}](https://elearning.uni-regensburg.de/mod/resource/view.php?id=1801878) dar. Hierbei werden bereits die zwölf Monate des Jahres zur Auswahl angezeigt. Durch Anklicken einer Monatsplakette sollen nun dynamisch und mit Hilfe von JavaScript die jeweiligen Tage des ausgewählten Monats erstellt und unterhalb der Auswahl angezeigt werden. 
 
 Bedenken Sie, dass die Monate eine unterschiedliche Länge haben können. Speichern Sie daher die spezifische Länge jedes Monats in einem Array ab und lesen diese Information an gegebener Stelle wieder aus. 
 
